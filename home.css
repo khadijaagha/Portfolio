@@ -259,7 +259,7 @@ a{
     position: relative; 
     left: -60px;
     margin-top: 70px;
-
+    box-shadow: 0 0 30px rgba(123, 93, 166, 0.7);
 
 }
 
@@ -283,8 +283,7 @@ a{
 }
 
 .purplebg{
-    background-image: url(images/4ur4.jpeg);
-    background-position: 60px;
+    background-color: white;
     border-radius: 2%;
 }
 
